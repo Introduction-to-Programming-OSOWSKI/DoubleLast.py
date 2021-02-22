@@ -1,16 +1,22 @@
-# **Assignment Title**  
+# **Double Last**  
 
 ## **Assignment Description**  
-
+Create a function called doubleLast() that returns a given list j but with an additional value added to the end that is equal to the last value of j.
 
 ## **Examples**  
->
+>doubleLast(["cat", "dog", "pig", "bear"])  
+["cat", "dog", "pig", "bear", "bear"]
 
 ## **Limitations**  
+1 function  
+0 for loops  
+0 if statements  
 
 ## **Hints**  
+j.append(w) adds the value w to the end of the list j  
 
 ## **Concepts**  
+Unit 1, Unit 2, Unit3, lists, list modification  
 
 ---
 
